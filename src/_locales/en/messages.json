@@ -1,0 +1,20 @@
+{
+  "EXT_NAME": {
+    "message": "Nab - Color Picker"
+  },
+  "EXT_NAME_SHORT": {
+    "message": "Nab"
+  },
+  "EXT_DESCRIPTION": {
+    "message": "Pick a color from anywhere on your screen"
+  },
+  "EYEDROPPER_SUPPORT_ERROR": {
+    "message": "The EyeDropper API is not supported in your browser. Please update your browser to the latest version or use Google Chrome for the best experience."
+  },
+  "ACCELERATOR_COLOR": {
+    "message": "Alt+C"
+  },
+  "ACCELERATOR_COLOR_MAC": {
+    "message": "\u2325C"
+  }
+}
