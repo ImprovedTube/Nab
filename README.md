@@ -1,5 +1,7 @@
 # Nab
 
+![Screenshot](./docs/assets/screenshot.jpg?raw=true)
+
 Nab is a Chrome extension that lets you pick colors from any webpage and copy it to your clipboard in a range of color formats.
 
 ## Install
