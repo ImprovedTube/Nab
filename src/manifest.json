@@ -3,7 +3,7 @@
   "description": "__MSG_EXT_DESCRIPTION__",
   "version": "1.0.0",
   "manifest_version": 3,
-  "minimum_chrome_version": "116",
+  "minimum_chrome_version": "1",
   "default_locale": "en",
   "permissions": ["activeTab", "scripting", "offscreen", "clipboardWrite", "declarativeContent", "contextMenus", "storage"],
   "icons": {
